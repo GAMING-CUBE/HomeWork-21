@@ -1,0 +1,74 @@
+{
+  "films": [
+    {
+      "title": "John Wick",
+      "desc": "An ex-hitman comes out of retirement to track down the gangsters who killed his dog and stole his car.",
+      "url": "https://en.wikipedia.org/wiki/John_Wick",
+      "photo": "https://m.media-amazon.com/images/S/pv-target-images/e7afc8edae40deb97f9dd7b5c626fdfae9197eef8bd16e319d80fcbc826fa46d.jpg",
+      "rating": "7.4/10"
+    },
+    {
+      "title": "Parasite",
+      "desc": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+      "url": "https://en.wikipedia.org/wiki/Parasite_(2019_film)",
+      "photo": "https://image.tmdb.org/t/p/original/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "rating": "8.5/10"
+    },
+    {
+      "title": "The Guilty",
+      "desc": "A police officer assigned alarm dispatch duty enters a race against time when he answers an emergency call from a kidnapped woman.",
+      "url": "https://en.wikipedia.org/wiki/The_Guilty_(2018_film)",
+      "photo": "https://m.media-amazon.com/images/M/MV5BMTk4MjEzYjctZmY2MS00ZDgyLWFkNDUtOTIyNDkwZjRlY2ZjXkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_.jpg",
+      "rating": "7.5/10"
+    },
+    {
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "desc": "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",
+      "url": "https://en.wikipedia.org/wiki/Three_Billboards_Outside_Ebbing,_Missouri",
+      "photo": "https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_.jpg",
+      "rating": "8.1/10"
+    },
+    {
+      "title": "Lion",
+      "desc": "A five-year-old Indian boy is adopted by an Australian couple after getting lost hundreds of kilometers from home. 25 years later, he sets out to find his lost family.",
+      "url": "https://en.wikipedia.org/wiki/Lion_(2016_film)",
+      "photo": "https://i.pinimg.com/originals/7f/8b/e0/7f8be0ed4825b3174b33a93d5eef00db.jpg",
+      "rating": "8/10"
+    },
+    {
+      "title": "Black Panther",
+      "desc": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
+      "url": "https://en.wikipedia.org/wiki/Black_Panther_(film)",
+      "photo": "https://i.etsystatic.com/18242346/r/il/8f6455/2495450226/il_570xN.2495450226_cgbk.jpg",
+      "rating": "7.3"
+    },
+    {
+      "title": "Gifted",
+      "desc": "Frank, a single man raising his child prodigy niece Mary, is drawn into a custody battle with his mother.",
+      "url": "https://en.wikipedia.org/wiki/Gifted_%282017_film%29",
+      "photo": "https://upload.wikimedia.org/wikipedia/en/4/43/Gifted_poster.jpeg",
+      "rating": "7.6"
+    },
+    {
+      "title": "The Climb",
+      "desc": "A young man from the suburbs with no mountaineering experience decides to climb Mt Everest to show a woman he'd do anything for her.",
+      "url": "https://en.wikipedia.org/wiki/The_Climb_%282017_film%29",
+      "photo": "https://upload.wikimedia.org/wikipedia/en/c/c3/The_Climb_%282017%29.png",
+      "rating": "6.9"
+    },
+    {
+      "title": "Another Round",
+      "desc": "Four high-school teachers consume alcohol on a daily basis to see how it affects their social and professional lives.",
+      "url": "https://en.wikipedia.org/wiki/Another_Round",
+      "photo": "https://lh3.googleusercontent.com/proxy/WxfsKwsStx5I-uND0mvUw8A1DWV3GK1OItCDLvXqJ8sZQHf0hvAEtjZIk38YKxgls-aOvoL8lhyOZukW3NrB84CeKr2Cf-HPR8mQ-Vm7vQrI3LD4_-GhL7uOVmJ84Xv51kW7efP7PHYpyRcMf9e86GIm_dzAhVjBfTiab_88GV7alSq64MvP",
+      "rating": "7.7"
+    },
+    {
+      "title": "Capernaum",
+      "desc": "While serving a five-year sentence for a violent crime, a 12-year-old boy sues his parents for neglect.",
+      "url": "https://en.wikipedia.org/wiki/Capernaum_%28film%29",
+      "photo": "https://i.ebayimg.com/images/g/ECoAAOSweSdc156N/s-l1200.webp",
+      "rating": "8.4"
+    }
+  ]
+}
